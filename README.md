@@ -2,6 +2,19 @@
 
 # TensorFlow Fashion MNIST Classifier
 
+<div align="center">
+  <br>
+      <img src="https://github.com/RJohnPaul/Linear_regression_model/blob/b522fa2641a3a36642a5a95798a1da90abbb8223/Frame%2012.png" alt="Project Banner">
+  </br>
+</div>
+
+<div align="center">
+  <br>
+      <img src="https://github.com/RJohnPaul/Linear_regression_model/blob/b522fa2641a3a36642a5a95798a1da90abbb8223/Frame%2012.png" alt="Project Banner">
+  </br>
+</div>
+</br>
+
 This Python script utilizes TensorFlow to build and train a neural network for classifying images from the Fashion MNIST dataset. The dataset comprises 70,000 grayscale images categorized into 10 classes of clothing.
 
 ## Features
@@ -41,5 +54,11 @@ Possible enhancements and future improvements to the script include:
 - Visualizing model performance metrics and training progress.
 
 Feel free to contribute and explore further improvements!
+
+<div align="center">
+  <br>
+      <img src="https://github.com/RJohnPaul/Linear_regression_model/blob/b522fa2641a3a36642a5a95798a1da90abbb8223/Frame%2012.png" alt="Project Banner">
+  </br>
+</div>
 
 ---
