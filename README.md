@@ -2,7 +2,7 @@
 
 <div align="center">
   <br>
-      <img src="https://github.com/RJohnPaul/Linear_regression_model/blob/b522fa2641a3a36642a5a95798a1da90abbb8223/Frame%2012.png" alt="Project Banner">
+      <img src="https://github.com/RJohnPaul/Fashion_Mnist_Models/blob/ea69d23ebf38b0608e666d313f7ebf1aee9d751e/Frame%2015.png" alt="Project Banner">
   </br>
 </div>
 
