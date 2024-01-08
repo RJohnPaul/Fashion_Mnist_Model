@@ -31,7 +31,7 @@ This Python script utilizes TensorFlow to build and train a neural network for c
 - Matplotlib (`import matplotlib.pyplot as plt`) - [Matplotlib Website](https://matplotlib.org/)
 - 
 ## Demo
- - Try the code out live on Collab : [Demo]()
+ - Try the code out live on Collab : [Demo](https://bit.ly/fashion_mod)
    
 ## Installation
 
