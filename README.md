@@ -8,7 +8,7 @@
 
 <div align="center">
   <br>
-      <img src="https://github.com/RJohnPaul/Linear_regression_model/blob/b522fa2641a3a36642a5a95798a1da90abbb8223/Frame%2012.png" alt="Project Banner">
+      <img src="https://github.com/RJohnPaul/Fashion_Mnist_Models/blob/265624bd37bdec443e62add66ccdd452761a0d6b/Frame-5(3).png" alt="Project Banner">
   </br>
 </div>
 </br>
