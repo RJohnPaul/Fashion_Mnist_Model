@@ -58,7 +58,7 @@ Feel free to contribute and explore further improvements!
 
 <div align="center">
   <br>
-      <img src="https://github.com/RJohnPaul/Linear_regression_model/blob/b522fa2641a3a36642a5a95798a1da90abbb8223/Frame%2012.png" alt="Project Banner">
+      <img src="https://github.com/RJohnPaul/Fashion_Mnist_Models/blob/54bb1c674e6cb892fe3d57703c30da166c22be70/Frame%2014.png" alt="Project Banner">
   </br>
 </div>
 
