@@ -1,5 +1,3 @@
----
-
 # TensorFlow Fashion MNIST Classifier
 
 <div align="center">
@@ -31,7 +29,10 @@ This Python script utilizes TensorFlow to build and train a neural network for c
 
 - TensorFlow (`import tensorflow as tf`) - [TensorFlow Website](https://www.tensorflow.org/)
 - Matplotlib (`import matplotlib.pyplot as plt`) - [Matplotlib Website](https://matplotlib.org/)
-
+- 
+## Demo
+ - Try the code out live on Collab : [Demo]()
+   
 ## Installation
 
 Make sure you have TensorFlow and Matplotlib installed using the following commands:
