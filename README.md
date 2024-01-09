@@ -13,7 +13,7 @@
 </div>
 </br>
 
-This Python script utilizes TensorFlow to build and train a neural network for classifying images from the Fashion MNIST dataset. The dataset comprises 70,000 grayscale images categorized into 10 classes of clothing.
+This py script utilizes TensorFlow to train a neural network for classifying images from Fashion MNIST dataset. The dataset consists of a set of 70,000 grayscale images categorized into 10 classes of clothing.
 
 ## Features
 
